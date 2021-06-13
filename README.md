@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋 I'm Pravin Patel
 
-<!--
-**patelpra337/patelpra337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:man_technologist: **About Me**
 
-Here are some ideas to get you started:
+* 🧓 I'm Unix / Linux Consultant & iOS Developer
+* :heart: I love learning and experimenting with new technologies, frameworks, and UI designs
+* :atom: I'm currently working on an app called Twitter iOS Clone
+* 🍎 I'm continuing my application development towards application architecture for iOS & MacOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tech Stack
+* Swift, Objectiv-C, Python, Bash Scripting
+* UIKit, Interface Builder, Programmatic Constraints, Auto Layout, Core Data, Core graphics, URLSession, Grand Central Dispatch,
+* Core Location, MapKit, CareKit, XCTest, AVFoundation
