@@ -2,7 +2,7 @@
 
 :man_technologist: **About Me**
 
-* 🧓   I'm Unix / Linux Consultant & iOS Developer
+* 🧓   I'm iOS Developer & Unix / Linux Consultant 
 * :heart:   I love learning and experimenting with new technologies, frameworks, and UI designs
 * :atom:   I'm currently working on an app called Twitter iOS Clone
 * 🍎   I'm continuing my application development towards application architecture for iOS & MacOS
