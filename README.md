@@ -8,5 +8,5 @@
 * 🍎 I'm continuing my application development towards application architecture for iOS & MacOS
 
 🧰 Tech Stack
-* Swift, Objectiv-C, Python, Bash Scripting
+* Swift, Objective-C, Python, Bash Scripting
 * UIKit, Interface Builder, Programmatic Constraints, Auto Layout, Core Data, Core graphics, URLSession, Grand Central Dispatch, Core Location, MapKit, CareKit, XCTest, AVFoundation
